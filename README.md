@@ -1,6 +1,6 @@
 # Automated Warehouse
 ## Description
-In this project, 
+En este proyecto 
 
 ## Photographic evidence
 FACTORY I/O simulation:
