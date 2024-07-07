@@ -5,7 +5,7 @@ In this project,
 ## Photographic evidence
 FACTORY I/O simulation:
 
-
+![fact](https://github.com/DanielOrozcoA/AutomatedWarehouse-TIA_PORTAL/assets/152805004/91fde800-e6e1-4a41-9e27-ab391eed0071)
 
 Real circuit:
 
