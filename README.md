@@ -1,6 +1,6 @@
 # Automated Warehouse
 ## Description
-En este proyecto, se tiene un sistema de almacenamiento de cajas en un estante de 54 posiciones en el cual un conjunto de bandas trasnportadoras se encargan de prooveer las cajas para el llenado y en donde se transfiere información propia de cada caja mediente RFID y la metodología de burbuja. Una vez que la caja esta lista para ser almacenada, el usuario puede establecer un llenado completo o bien establecer un rango de posiciones del estante a llenar a traves de un HMI o el Web Server del PLC. Finalmente, al almacenar la caja en la posición establecida, se lee la información actualizada de la caja por RFID.
+In this project, there is a box storage system on a shelf with 54 positions, where a set of conveyor belts is responsible for providing the boxes for filling. Information specific to each box is transferred using RFID and the bubble methodology. Once the box is ready to be stored, the user can set a complete filling or specify a range of shelf positions to fill through an HMI or the PLC's Web Server. Finally, when the box is stored in the established position, the updated information of the box is read via RFID.
 
 ## Photographic evidence
 FACTORY I/O simulation:
@@ -9,11 +9,11 @@ FACTORY I/O simulation:
 
 HMI Interface:
 
-
+![image](https://github.com/DanielOrozcoA/AutomatedWarehouse-TIA_PORTAL/assets/152805004/8b36796e-4129-44ad-b6cf-22e0af5dd4a6)
 
 Web Server Interface:
 
-
+![image](https://github.com/DanielOrozcoA/AutomatedWarehouse-TIA_PORTAL/assets/152805004/7f83b9f6-0fc2-41f4-9448-a3b32c6ffdff)
 
 Real circuit:
 
