@@ -3,21 +3,21 @@
 In this project, there is a box storage system on a shelf with 54 positions, where a set of conveyor belts is responsible for providing the boxes for filling. Information specific to each box is transferred using RFID and the bubble methodology. Once the box is ready to be stored, the user can set a complete filling or specify a range of shelf positions to fill through an HMI or the PLC's Web Server. Finally, when the box is stored in the established position, the updated information of the box is read via RFID.
 
 ## Photographic evidence
-FACTORY I/O simulation:
+#### FACTORY I/O simulation:
 
 <p align="center"><img src="https://github.com/DanielOrozcoA/AutomatedWarehouse-TIA_PORTAL/assets/152805004/91fde800-e6e1-4a41-9e27-ab391eed0071" width="720" height="400"/>
 
-HMI Interface:
+#### HMI Interface:
 
-![image](https://github.com/DanielOrozcoA/AutomatedWarehouse-TIA_PORTAL/assets/152805004/8b36796e-4129-44ad-b6cf-22e0af5dd4a6)
+<p align="center"><img src="https://github.com/DanielOrozcoA/AutomatedWarehouse-TIA_PORTAL/assets/152805004/8b36796e-4129-44ad-b6cf-22e0af5dd4a6" width="600" height="450"/>
 
-Web Server Interface:
+#### Web Server Interface:
 
-![image](https://github.com/DanielOrozcoA/AutomatedWarehouse-TIA_PORTAL/assets/152805004/7f83b9f6-0fc2-41f4-9448-a3b32c6ffdff)
+<p align="center"><img src="https://github.com/DanielOrozcoA/AutomatedWarehouse-TIA_PORTAL/assets/152805004/7f83b9f6-0fc2-41f4-9448-a3b32c6ffdff" width="350" height="600"/>
 
-Real circuit:
+#### Real circuit:
 
-![real](https://github.com/DanielOrozcoA/AutomatedWarehouse-TIA_PORTAL/assets/152805004/ae9a23df-62f9-4f4b-a043-6314b5e75e1f)
+<p align="center"><img src="https://github.com/DanielOrozcoA/AutomatedWarehouse-TIA_PORTAL/assets/152805004/ae9a23df-62f9-4f4b-a043-6314b5e75e1f" width="600" height="400"/>
 
 ## Author
 **Daniel Orozco**
