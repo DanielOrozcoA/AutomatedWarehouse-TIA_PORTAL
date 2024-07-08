@@ -5,7 +5,7 @@ In this project, there is a box storage system on a shelf with 54 positions, whe
 ## Photographic evidence
 FACTORY I/O simulation:
 
-![fact](https://github.com/DanielOrozcoA/AutomatedWarehouse-TIA_PORTAL/assets/152805004/91fde800-e6e1-4a41-9e27-ab391eed0071)
+<p align="center"><img src="https://github.com/DanielOrozcoA/AutomatedWarehouse-TIA_PORTAL/assets/152805004/91fde800-e6e1-4a41-9e27-ab391eed0071" width="720" height="400"/>
 
 HMI Interface:
 
